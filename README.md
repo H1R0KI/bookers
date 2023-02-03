@@ -1,5 +1,7 @@
 # README
 
+DWC 基礎知識学習 課題2:アプリケーション作成の基礎編です。
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
