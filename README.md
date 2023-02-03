@@ -1,26 +1,7 @@
-# README
+# DMM WEBCAMP 課題2:アプリケーションを作成してみよう 基礎編
 
-DWC 基礎知識学習 課題2:アプリケーション作成の基礎編です。
+DWCカリキュラムの課題2で作成した【Bookers】というアプリです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##使い方
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+このアプリでは読んだ本の感想を投稿することができます。
